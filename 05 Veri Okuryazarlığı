@@ -1,0 +1,47 @@
+			05 Veri Okuryazarlığı
+
+
+Verileri anlamak, değerlendirmek, analiz etmek ve sonuçlarını yorumlamak için gerekli bilgi ve becerilere sahip olma durumudur. 
+
+	Veri Okuma: 
+
+Grafikler, tablolar, raporlar ve diğer veri görselleştirme araçlarını doğru bir şekilde okuyabilme eve anlamlandırma becerisi. 
+
+	Veri Yorumlama:
+
+Verinin doğruluğunu da düşünerek farklı veri setleriyle harmanlayarak bir sonuç ya da anlam çıkartmak.
+
+	Veri Analizi:
+
+Veriler üzerinde temel analizler yapabilme. Bu, istatistiksel yöntemleri kullanarak veriden anlamlı sonuçlar çıkarmayı içerir. 
+
+
+		TEMEL KAVRAMLAR
+
+	Popülasyon:
+
+Tümünü kapyasayan küme: Bir araştırmada ilgilendiğimiz tüm birey, olay veya nesnelerin tamamına popülasyon denir. 
+
+	Örneklem:
+
+Popülasyonun tamamını incelemek yerine, popülasyondan seçilen daha küçük bir alt kümedir.
+
+Bu küçük grup, popülasyounun genel özelliklerini temsil eder ve genellikle araştırma ve analizlerde kullanılır. 
+
+Bir şehirde yaşayan tüm insanlar yerine, bu şehirde rastgele seçilen 1000 kişinin incelenmesi, o şehrin nüfusunun tamamını temsil eden bir örneklem oluşturur. 
+
+	Örneklem Seçimi:
+
+Rastgele Örnekleme: Her bireyin seçilme olasılığının eşit olduğu yöntemdir. 
+
+Katmanlı Örnekleme: Popülayson farklı alt gruplara ayrılır ve her gruptan örneklem alınır. 
+
+Küme Örneklemesi: Popülasyon doğal olarak oluşan kümelere ayrılır ve bu kümelerden bazıları örnek olarak seçilir. 
+
+	Gözlem Birimi:
+
+Verinin toplandığı en temel birimdir. 
+
+Veri setindeki her bit satır gözlemdir. 
+
+Bir veri kümesindeki her bir satırın neyi temsil ettiğini bilmek, veri yapısını anlamak açısından hayati öneme sahiptir. 

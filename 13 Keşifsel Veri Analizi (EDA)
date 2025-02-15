@@ -1,0 +1,26 @@
+			13 Keşifsel Veri Analizi (EDA)
+
+
+Veri analiz sürecinin ilk aşamalarından biridir ve veri yapısını, özelliklerini ve ilişkilerini anlamak için kullanılır. 
+
+EDA, veriyi derinlemesine anlamak ve analiz sürecinde karşılaşabilecek sorunları belirlemek amacıyla uygulanan bir dizi yöntem ve teknik içerir. 
+
+
+	Keşifsel Veri Analizinin Amacı:
+
+Veri Setini Anlamak: Verinin yapısını, dağılımını, değişkenler arasındaki ilişkileri ve potansiyel problemleri (eksik değerler, aykırı değerler vb.) keşfetmek.
+
+Hipotez Oluşturmak: Veri içindeki kalıpları ve ilişkileri gözlemleyerek ileriye dönük hipotezler oluşturmak.
+
+Veri Kalitesini Değerlendirme: Verinin eksiklerini, tutarsızlıklarını ve diğer kalite sorunlarını değerlendirmek. Bu, verilerin güvenilirliğini arttırmak için önemlidir. 
+
+
+	EDA Adımları:
+
+- Veri seti içeriğine bakmak -head() tail()
+- Veri seti boyutunu satır ve sütün olarak incelemek -shape()
+- Veri seti sütunları hakkında bilgi almak -info()
+- Özet istatistiklerin çıkartılması -describe()
+- Kaç adet Null değerler var .isnull() .sum()
+- Null değerlerin tespiti -isNull()
+- Her sütunun yapısına özel grafiklerle görselleştirme yapmak

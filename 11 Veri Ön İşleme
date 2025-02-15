@@ -1,0 +1,104 @@
+			11 Veri Ön İşleme, Depolama ve Analiz
+
+
+	Veri Ön İşleme: 
+
+Toplanan ham veriyi anlamlı ve kullanışlı hale getirmek için uygulanan işlemleri içerir. 
+
+-Veri Temizleme
+-Veri Standardizyonu
+-Veri Zenginleştirme
+-Veri Azaltma
+-Veri Kalitesi
+
+
+	Veri Temizleme:
+
+Toplanan ham veriyi anlamlı ve kullanışlı hale getirmek için uygulanan işlemleri içerir. 
+
+Gürültü ve Hataların Giderilmesi: 
+
+Ham veri genellikle eksik, hatalı veya gürültülü olabilir. Bu aşamada, eksik veriler doldurulur, yanlış veriler düzeltilir ve gereksiz veriler çıkarılır. 
+
+
+Eksik Verilerin Tespit Edilmesi:
+
+Veritabanı veya veri setindeki kayıtlar veya hücreler tespit edilir. Eksik veriler, veri toplama sürecindeki hatalardan, yanıt rksikliklerinden veya veri kaybından kaynaklanabilir. 
+
+Aykırı Gözlem:
+
+Bir veri setindeki diğer gözlemlerden belirgin şekilde farklılaşan, beklenmeyen değere sahip bir gözlemdir. Örneğin, herkesin yüksel aldığı sınavdan 5 alan öğrenci.
+
+Buna gürülütlü veya hatalu veri diyemeyiz.
+
+
+	Veri Standardizyonu:
+
+Veri setlerinde bulunan farklı formatlardaki, tipteki veya birimdeki bilgilerin tek bir standart haline getirilmesi sürecidir. 
+
+Tutarlılığı Sağlama: 
+
+Farklı veri kaynaklarından gelen verileri uyumlu ve standart bir formata dönüştürülmesi sağlanır. Bu, verinin bütünlüğünü korur ve analiz sürecinde tutarlılığı arttırır. 
+
+Normalizasyon ve Standardizasyon:
+
+Veriler, analiz edilebilir hale getirilmek için belirli bir aralığa (örneğin 0 ile 1) normalize edilebilir veya birimsel tutarlılık sağlamak için standardize edilebilir.
+
+
+	Veri Zenginleştirme:
+
+Problemi çözmek üzere verinin farklı veri setleriyle birleştirilerek zenginleştirme ya da birleştirme aşamasıdır. 
+
+Farklı Kaynaklardan Gelen Verilerin Birleştirilmesi:
+
+Veriler genellikle birden fazla kaynaktan gelir. Bu verilerin anlamlı bir şekilde entegre edilmesi gerekir. 
+
+Veri Birleştirme(Merging) ve Birleştirme(Joins): 
+
+İlişkili veri kümeleri birleştirilir. Örneğin, Müşteri bilgileri ile sipariş bilgileri eşleştirilir. 
+
+
+	Veri Azaltma:
+
+Veri setinin boyutunu küçültmek amacıyla veri kaybetmeden veya minimum bilgi kaybıyla işlemeyi ve analiz etmeyi amaçlar. 
+
+Özellik Seçimi:
+
+Tüm özellikler(columns) gerekli olmayabilir. Analiz veya modelleme için en anlamlı olan özellikler seçilir. 
+
+Boyut Azaltma:
+
+Büyük veri setlerinin boyutunu düşürmek için boyut azaltma teknikleri (örneğin PCA) uygulanabilir. 
+
+	Veri Kalitesi:
+
+Veri kalitesi olmadan, analiz sonuçları yanıltıcı olabilir veya yanlış kararlar alınmasına yol açabilir. 
+
+
+Doğruluk(Accuracy):
+
+Verilerin gerçeği doğru bir şekilde yansıtması gerekir. Hatalı veya eksik veriler düzeltilmelidir. 
+
+Örneğin, bir müşteri veritabanında adres bilgisinin doğru ve güncel olması
+
+
+Tamlık(Completeness):
+
+Verilerin eksiksiz olması, yani gerekli tüm bilgilerin mevcut olması gerekmektedir. 
+
+
+Tutarlılık(Consistency):
+
+Farklı veri kaynakları arasında uyumlu ve tutarlı veri bulunmalıdır.
+
+Örneğin, bir veritabanında ürün fiyatının 50 TL Olarak geçmesi, ancak başka bir sistemde aynı ürünün 55 TL olarak listelenmesi bir tutarsızlıktır.
+
+
+Zamanlılık(Timeliness):
+
+Verilerin güncel ve kullanılabilir olması gerekir. Örneğin eski tarihli bir veri seti, güncel analizler için yetersiz olabilir.
+
+
+Geçerlilik(Validity):
+
+Verilerin belirli kurallara ve standartlara uygun olması gerekir. Örneğin, bir doğum tarihinin gelecekte bir tarih girilmiş olması geçersizdir. 

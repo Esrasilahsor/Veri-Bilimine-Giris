@@ -1,0 +1,88 @@
+			06 Veri Görselleştirme
+
+
+Verileri grafiksel formatta sunarak, kullanıcıların bu verileri daha hızlı ve etkili bir şekilde anlamalarını sağlar. 
+
+Büyük veri kümelerini anlamlandırmak zor olabilir. Görselleştirmeler, verileri anlamlı ve erişilebilir hale getirir, bu da daha iyi kararlar almamıza yardımcı olur. 
+
+
+	Veri Görselleştirmenin Önemi:
+
+Verileri Keşfetmek: Verilerdeki trendleri, anormalleri, ilişkileri anlamak için kullanışlı bir yöntemdir. 
+
+Hızlı Anlama: Karmaşık veri kümeleri hızlı bir şekilde yorumlanabilir. Örneğin, bir grafik, yüzlerce satırlık bir tabloya göre daha hızlı bir şekilde bilgi sunabilir. 
+
+
+	Veri Görselleştirme Yöntemleri: 
+
+
+Bar Chart (Çubuk Grafik): 
+
+Çubuk grafiği, verileri yatay veya dikey çubuklarla temsil eder. Her çubuk, bir kategoriye karşılık gelir ve çubuğun uzunluğu, bu kategori değeriyle orantılıdır. 
+
+Kategorik verilerin karşılaştırılması, sıralamaların gösterilmesi ve zaman serisi verilerinde kullanılır. 
+
+
+Line Chart (Çizgi Grafik): 
+
+Zaman serisi verilerinin ve trendleri görselleştirmek için kullanılan popüler bir veri görselleştirme aracıdır. 
+
+Veriler noktalarla temsil edilir ve bu noktalar bir çizgiyle birleştirilir, böylece değişim ve eğilimler daha net bir şekilde ortaya konur. 
+
+
+Pie Chart (Pasta Grafik):
+
+Veri kümesindeki çeşitli bileşenlerin bir bütün içindeki oranlarını görselleştirmek için kullanılır. 
+
+Verilerin hangi yüzdelik paylara sahip olduğunu göstermek için ideal bir araçtır ve genellikle yüzde değerlerinin kolayca anlaşılmasını sağlar. 
+
+Kategori sayısı az olan ve gruplanabilen verileri görselleştirmek için kullanıma daha uygundur. 
+
+
+Histogram:
+
+Verilerin belirli aralıklara bölünmesini ve her aralıktaki veri sayısını(frekansı) gösteren grafiktir. 
+
+Verilerin ne kadar sık tekrarlandığını veya veri aralıklarının nasıl dağıldığını anlamaya yardımcı olur. 
+
+
+Funnel Chart (Huni Grafik):
+
+Bir sürecin çeşitli aşamalarını ve her aşamadaki değerleri veya miktarları gösterir.
+
+Grafik, genişten dara doğru bir şekil alır; böylece sürecin başlangıcındaki geniş veri miktarı veya sayısı, ilerledikçe daralarak azalan miktar veya değerler şeklinde görselleştirilir. 
+
+
+HeatMap (Isı Haritası):
+
+Genellikle iki boyutlu matris şeklinde düzenlenmiş verileri, renklerin değişimiyle temsil eder. 
+
+Renkler, veri setindeki farklı değerlerin yoğunluklarını veya magnitütlerini(büyüklüklerini) gösterir. Isı haritası, veri içindeki kalıpları, ilişkileri ve trendleri daha hızlı bir şekilde anlamak için kullanılır. 
+
+
+Pin/Dot Map (Nokta Harita):
+
+Coğrafi verileri görselleştirmek için kullanılan bir tür haritadır. 
+
+Harita üzerinde belirli yerleri veya noktaları vurgulamak amacıyla pinler(iğneler) kullanılır. Genellikle her pin, bir veri noktasını, bir olayın konumunu veya belirli bir özellik taşıyan yerleri temsil eder. 
+
+
+	Grafik Yorumlama:
+
+Ölçek Manipülasyonu: 
+
+Ölçek manipülasyonu ile grafikler yanıltıcı hale gelebilir ve kullanıcılar yönlendirilebilir. 
+
+Doğru olanı ölçeğin sıfırdan başlatılmasıdır.
+
+Renklerin Dili:
+
+Doğru renk seçimleri daha hızlı anlamamıza sebep olur.
+
+Beynimiz genellikle koyu renkleri daha yoğun olarak kabul etme eğilimindedir. Bu sebeple tablolarda, koyu renklere daha büyük veri yoğunluğunun yerleştirilmesi daha uygun olacaktır.
+
+Basitlik:
+
+Bir veri setini görselleştirirken grafiğin, mutlaka basit olması gerekir.
+
+Örneğin değişimleri göstermek istediğimizde Line Chart daha mantıklı olacaktır.

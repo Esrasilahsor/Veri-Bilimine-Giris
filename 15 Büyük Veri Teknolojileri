@@ -1,0 +1,85 @@
+			15 Büyük Veri Teknolojileri
+
+
+Geleneksel veri işleme yöntemleri ile yönetilemeyen veya analiz edilemeyen büyük ve karmaşık veri kümelerini ifade eder. Bir çok şirket, veri ile birlikte dijital dönüşümü gerçekleştirirken, bu dönüşüm Büyük Veriyi yeni bir devrin başlangıcı olarak tanımlıyor.
+
+Büyük veri kavramı büyük hacimli- yapılandırılmış ve yapılandırılmamış- verileri ifade etmek için kullanılmaktadır. Bu veriler o kadar büyük, hızlı ve komplikedir ki gelenekseş yöntemler kullanarak işlemek mümkün değildir. 
+
+
+	Büyük Veri Kaç Gigabyte?
+
+Bir verisetine Büyük veri diyebilmemiz için belirli bir veri büyüklüğü olması gerekmemektedir. 
+
+Tek başına bir sunucunun işleyemediği, toplayamadığı verilere hacimsel olarak büyük veri diyebiliriz. Büyük veri, birden fazla sunucunun birlikte çalışarak verileri işlemesidir.
+
+
+	Dağıtık Sistem:
+
+Birbirine bağlı, ancak bağımsız olarak çalışan bir çok bilgisayar ve sunucunun, bir ağ üzerinden koordine edilerek tek bir sistem gibi çalışmasını sağlayan bir bilgisayar sistemi türüdür. 
+
+
+	Veri Bilimi ve Büyük Veri:
+
+Veri bilimi, Büyük Veri'nin önemli bir parçasındır. Dağıtık sistem teknlojileriyle Veri bilimi süreçlerini işletir. 
+
+Örneğin, bir e-ticaret sitesinin milyarlarca işlem verisi büyük veri olarak tanımlanabilir, ve veri bilimi teknikleri kullanılarak müşteri davranışlarını tahmin etmek için analiz edilebilir. 
+
+Veri bilimi süreçleri genelde duran verilerle yürütülür. Büyük veri süreçlerinde gerçek zamanlı süreçler de iletilir. 
+
+Veri Bilimi: Batch
+Büyük Veri: Batch + Streaming
+
+
+	Büyük Veri Oluşumu: 
+
+- Sosyal Medya Verileri
+- Mobil Telefon Uygulamaları
+- Nesnelerin İnterneti Verileri
+- Log Verileri
+- İşlemsel Veriler
+- Multimedya Verileri
+
+
+	Büyük Veri 5V:
+
+Volume:
+
+Verinin 'büyük veri' olup olmamasının en önemli şartı ciddi boyutlarda olmasıdır. Verinin boyutu verinin değerini belirler. 
+
+Velocity:
+
+Big Data genelde verilerin üretilmesi ile eş zamanlı olarak bir yandan da işlenmektedir. 
+
+Her milisaniyede veri kaybedip ürettikçe, bu verileri de aynı hızla anlayabilmemiz gerekir. 
+
+Variety:
+
+Geleneksel veri tabanlarındaki yapılandırılmış sayısal verilerden yapılandırılmamış metin belgelerine, e-postalara, videolara, seslere, hisse senedi verileri ve finansal işlemlere kadar her türlü biçimde gelir. 
+
+Veracity:
+
+Verinin gerçek ve doğru olması olarak açıklanabilir. Büyük miktardaki verilere ait bilgilerin doğru olup olmadığına karar verilmesi için çok önemli bir yaklaşımdır. 
+
+
+Value:
+
+Büyük veri ile ilgili en önemli bileşen, değerdir. Elde edilen ve işlenen veriler, kuruma değer kattığı sürece anlamlıdır. Büyük verinin analizinin ve simülasyonlarının doğru şekilde kurgulanması ve büyük veriyi kullanan kuruma fayda sağlaması öncelikli olarak ele alınmalıdır. 
+
+
+	Gerçek Zamanlı Veri Analizi:
+
+Gerçek zamanlı veri ve analizi, verilerin alık olarak toplanması, işlenmesi ve sonuçlarının kullanıcıya sunulmasını ifade eder. Bu süreçte veriler, meydana geldiği anda toplanır, analiz edilir ve hızlı bir şekilde anlamlı bilgiye dönüştürülür. 
+
+Bir çok endüstride karar alma süreçlerini hızlandırmak, operasyonları optimize etmek ve müşteri deneyimini geliştirmek için kullanılır. 
+
+Walmart, envanter ve müşteri talebini gerçek zamanlı olrak izleyerek oyun dinamiklerini optimize eder, sunucu performansını ayarlar ve hileleri tespit eder.
+
+
+Batch Veri Analizi:
+
+Belirlenen miktarda veri biriktiğinde ya da bir zaman planlandığında duran, biriken, saklanan veri üzerinde yapılan analizdir. Örneğin, fatura oluşturma, gün sonu raporları, Csv-excel dokümanları, son 3 ayın ihracat verileri.
+
+
+Real Time Veri Analizi:
+
+Akan verinin işlem gerçekleştirdikten hemen sonra analiz edilmesidir. Örnek olarak radar sistemleri, e-ticaret sipariş işlemleri, atm sistemleri, anlık Dashboard'lar verilebilir. 

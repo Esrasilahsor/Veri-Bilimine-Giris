@@ -1,0 +1,71 @@
+			04 Veri Yönetimi
+
+
+Verilerin toplanması, organize edilmesi, kalitesi, saklanması işlemlerinin tamamını kapsamaktadır. 
+
+Veri yönetimi sayesinde şirketler iş kararlarını, kampanyalarını, raporlarını oluşturmaktadır. Veri ile karar alma noktasında veri yönetimi mutlaka olmalıdır. 
+
+Veri yönetimi 11 farklı alandan oluşmaktadır. 11 alanın da kendi uzmanlıkları, sorumlulukları, programları, yöntemleri ve tanımları vardır.
+
+10 alanın oratasında Governance(yönetişim) bulunuyor. Bu farklı alanları, disiplinleri birbiriyle iletişim haline getiren governance'dır.
+
+
+	1- Data Modelling & Desing:
+
+Veriden nasıl bir anlam çıkartacağımızla ilgili olarak gereksinimleri belirleyip, ihtiyaçları çıkartıp model oluşturacağımız bölümdür.
+
+	2- Data Storage & Operations:
+
+Verinin nereye depolanacağı, nasıl ve ne kadar süreyle saklanacağının belirlendiği bölümdür. 
+
+Veriler sonsuza kadar saklanmaz, arşivlenir, sıkıştırılır. 
+
+Örneğin SQL ve NoSQL.
+
+	3- Data Security:
+
+Verilerin belirli bir kurala dayanarak yalnızca doğru kişiler tarafından doğru zamanda doğru şekilde erişilmesi sağlanır. 
+
+	4- Data Integration:
+
+Çeşitli veri kaynaklarından gelen veriyi hareket ettirebildiğimiz, belirli bir yere topladığımız veri birleştirme/entegre etme aşamasıdır.
+
+	5- Documents & Content: 
+
+Yapılandırılmamış verilerin saklanması süreciyle ilgili içeriklerin bulunduğu bölümdür. 
+
+	6- Referance & Master Data: 
+
+Bu bölümde şirket için temel kritik paylaşılan verilerin korunması sürecidir. 
+
+	7- DWH & BI:
+
+Çeşitli kaynaklardan gelen verilerin raporlara dönüştüğü katmandır. İş zekası araçları ile kullanımı yaygındır. 
+
+	8- Metadata: 
+
+Şirket içindeki veri miktarlarının takip edildiği, hangi tür veriler var, hangi alanlar var,vhangi veri nerede ve sahibi kim gibi meta veriler bulunur. 
+
+	9- Data Quality:
+
+Toplanan verilerin, raporların, tabloların, dashboardların amaca uygun ve doğru olduğundan emin olma sürecidir. 
+
+	10- Data Architecture: 
+
+Şirketin kaynakları arasındaki veri transferlerini, tablo ilişkisini, verilerin anlamlandırma yapılarının bulunduğu mimaridir.
+
+	
+	DMBOK Piramidi:
+
+
+Veri yönetimi alanındaki ekiplerin hangi sırayla neler yapması gerektiğini söyler. 
+
+Piramidin en altında Data Governance bulunur. Data Managenet'in temelini oluşturur. 
+
+Data Architecture, Data Quality, Metadata süreçleri Data Governance katmanının bir üstünde bulunur.
+
+Veritabanına karar verdiğimiz, Data Modelling & Desing, Data Ingeration & Interproperability, Data Storage & Operaitons, Data Security aşamalarının belirlenme aşaması son katmanın bir üstündedir.
+
+Bir üst katmanda bulunan kurallar ve çizimler sayesinde (Document & Contents, Referance & Master Data, Bussines Intelligence) raporlar oluşturuğumuz bölümdür. 
+
+En üst katmanda bulunan Data Analytics & Big Data, Veri bilimi, Yapay zeka, Büyük veri araçlarıyla ileri analitik çalışmalar katmanıdır. 

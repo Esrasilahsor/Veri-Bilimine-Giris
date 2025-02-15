@@ -1,0 +1,58 @@
+			12 Veri Depolama ve Analiz
+
+
+	Veri Depolama:
+
+İşlenen veriler, analiz için hazır hale getirildikten sonra güvenli ve erişilebilir bir şekilde depolanmalıdır. 
+
+Verilerin hem güvenliğini sağlamak hem de gerektiğinde hızlı bir şekilde erişilebilir olmasını sağlamak için kritik bir aşamadır. 
+
+Verilerin türüne, kullanım amacına ve organizasyonel ihtiyaçlara göre farklı yöntemler ve teknolojiler kullanılır. 
+
+
+	Veri Depolama Aşamaları:
+
+Veri Saklama: Verilerin, fiziksel veya bulut tabanlı depolama alanlarına kaydedilmesi
+
+Veri Yönetimi: Depolanan verilerin düzenlenmesi, korunması ve yönetilmesi
+
+Veri Yedekleme: Veri kaybı veya bozulmasına karşı korunması için yedekleme işlemi
+
+
+	Veri Tabanları:
+
+İlişkisel Veritabanları(RDBMS): Veriyi tablolarda saklayan ve SQL ile erişilen sistemlerdir. Örnekler arasında MySQL, PostgreSQL ve Oracle bulunmaktadır. 
+
+NoSQL Veritabanları: Yapılandırılmamış veriyi işlemek için kullanılan veritabanlarıdır. Örnekler arasında MongoDB, Cassandra ve Redis bulunur. 
+
+
+	Veri Analizi:
+
+Ön işlemeden geçmiş verileri inceleyerek anlamlı bilgi ve içgörüler elde etme sürecidir. 
+
+Deskriptif  Analiz: 
+
+Verilerin mevcut durumunu ve geçmiş eğilimlerini özetler. Ortalama, medyan, varyans gibi istatistiksel ölçümler kullanılır. Örneğin, bir satış verisi setinde ortalama saış miktarını hesaplamak, genel bir performans değerlendirmesi sağlar. 
+
+Tanımlayıcı Analiz: 
+
+Verilerdeki eğilimleri ve desenleri belirler. Verilerin grafiksel gösterimleri, eğilim analizi ve kategorik verilerin özetlenmesi bu kategoriye girer. Örneğin bir ürünün satış grafiği, mevsimsel değişimleri gösterebilir. 
+
+Korelasyon ve Regresyon Analizi:
+
+İki veya daha fazla değişken arasındaki ilişkileri analiz eder. Korelasyon analizi, değişkenler arasındaki ilişkinin gücünü ölçerken, regresyon analizi bu ilişkinin matematiksel modelini oluşturur. Örneğin, reklam harcamaları ile satışlar arasındaki ilişkiyi incelemek.
+
+Tahminsel Analiz: 
+
+Gelecekteki olayları tahmin etmek için geçmiş verilerden yararlanır. Makine öğrenmesi ve istatistiksel modelleme yöntemleri kullanılarak yapılır. Örneğin geçmiş satış verilerine dayanarak gelecek ayın satış tahminini yapmak. 
+
+
+	Veri Analizi Zorlukları:
+
+
+Veri Kalitesi: Verinin doğruluğu ve gğvenlilirliği analiz sonuçlarını doğrudan etkiler. Eksik, hatalı veya uyumsuz veriler analiz sürecini zorlaştırabilir. 
+
+Veri Büyüklüğü: Büyük veri setlerinin analizi, yüksek işlemci gücü ve depolama kapasitesi gerektirebilit. Ayrıca büyük veri setlerinin yönetimi ve analizi daha karmaşık olabilir. 
+
+Yorumlama ve Anlamlandırma: Verinin doğru bir şekilde yorumlanması ve anlamlı içgörüler çıkarılması gereklidir. Yanlış yorumlanan veriler yanıltıcı sonuçlar doğurabilir. 
+		

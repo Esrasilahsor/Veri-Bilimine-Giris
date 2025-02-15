@@ -1,0 +1,101 @@
+			01 Veri Bilimine Giriş
+
+
+	Veri Bilimi Kavramı:
+
+Veriyi toplama, işleme, analiz etme ve anlamlı bilgiler elde etme sürecidir.
+
+Amacı, verilerdeki desenleri ve eğilimleri ortaya çıkarmak, bu bilgileri kullanarak öngörülerde bulunmak ve karar alma süreçlerini iyileştirmektir.
+
+
+	Veri Bilimi Süreçleri:
+
+Veri Toplama -> Veri Hazırlama -> Veri Analizi -> Veri Görselleştirme -> Model Oluşturma -> İzleme ve Bakım
+
+
+	Veri Biliminin Önemi:
+
+Özellikle son yıllarda veri miktarının ve çeşitliliğinin hızla artması verinin önemini artırmıştır. 
+
+Veri, yeni dünyanın petrolüdür.
+
+Yapay zeka algoritmaları veriye bağımlıdır.
+
+
+	Veri Bilimi Uygulamaları: 
+
+- Sağlık Sektörü: Kişisel verilerinin tutulması, e-nabız vs.
+
+- Perakende Sektörü: Müşteri dsvranışlarını anlamak, stok takibi vs.
+
+- Finans Sektörü: Risk analizi ve Dolandırıcılık tespiti, Yatırım kanalalarını otpimize etmek, Müşteri segmentasyonu ve Hedefleme, Kredi Risk Skoru, Bilanço Yönetimi vs.
+
+- Ulaşım Sektörü: Araç paylaşım uygulamaları, Kargo ve Lojistik Şirketleri Rota optimizasyonu, Havayolu Şirketleri talep tahmini vs.
+
+- Spor Sektörü: Oyuncuların performans verilerini analiz etmek, Maç yayını ve analitik içerik üretmek vs.
+
+
+	Veri Bilimi Proje Akışı: 
+
+Problem Tanımlama -> Veri Toplama -> Veri Hazırlama -> Veri Analizi -> Veri Görselleştirme -> Model Oluşturma -> İzleme ve Bakım
+
+
+1- Problem Tanımlama:
+
+Projeye başlamadan önce, hangi sorunun çözülmesi gerektiğini net bir şekilde tanımlanmalıdır.
+
+İş hedefiyle uyumlu ve çözülmesi gereken spesifik bir problemi anlamayı içerir. 
+
+
+2- Veri Toplama:
+
+İhtiyaç duyulan veriler belirlenir ve bu verilerin hangi kaynaklardan elde edileceği tespit edilir. 
+
+Veri Kaynakları; Dosyalar, Veritabanları, API'ler, Dış Veri Sağlayıcıları veya Şirket İçi Sistemler olabilir. 
+
+Veriler çeşitili yöntemlerle toplanabilir. 
+
+
+3- Veri Hazırlama ve Temizleme:
+
+Toplanan veriler eksik, hatalı veya uyumsuz olabilir. 
+
+Veri bilimciler, bu hataları düzeltir, eksik verileri tamamlar ve verileri standart hale getirir. 
+
+Veri dönüştürme, normalizasyon ve özellik mühendisliği gibi işlemler içerir. 
+
+
+4- Veri Analizi:
+
+Verilerin genel özelliklerini ve dağılımlarını anlamak için keşifsel veri analizi yapılır. 
+
+Veri bilgisi ve problem bilgisi birleştirilerek çeşitli sorgulamalar yapılır.
+
+Müşteri memnuniyetini arttırmak için, anket ve şikayetler incelenir. 
+
+
+5- Veri Görselleştirme:
+
+Veriler ve analiz sonuçları, grafikler, tablolar ve diğer görsel araçlarla sunulur.
+
+Bilginin anlaşılması ve paylaşılması görsel tekniklerle daha kolaydır. 
+
+Örneğin bir pasta grafiği ile verinin dağılımı daha anlaşılabilir hale gelir. 
+
+
+6- Veri Modelleme:
+
+Veri bilimciler, analiz sonuçlarına dayanarak tahmin ve sınıflandırma modelleri geliştirir. 
+
+Makine öğrenmesi, Derin öğrenme gibi algoritmaların uygulanmasını içerir.
+
+Bir projede zamanımızın %90 veya %95'i bu adımdan önce harcanır. Kalan %5 ya da %10'luk kısım bu ve bundan sonraki adımı içermektedir. 
+
+
+7- İzleme ve Bakım:
+
+Uygulanan modellerin ve çözümlerin performansı sürekli olarak izlenir. 
+
+Modelin zaman içinde nasıl çalıştığı değerlendirilir.
+
+Veri veya iş koşullarındaki değişikliklere bağlı olarak modeller güncellenir veya iyileştirilir. 

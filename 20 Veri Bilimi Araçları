@@ -1,0 +1,31 @@
+			20 Veri Bilimi Araçları
+
+
+Python
+R Programlama
+Matlab ve Octave
+SAS(Statistical Analysis System)
+Julia
+RapidMiner ve KNIME
+
+1- R Programlama: İstatistiksel analiz, veri görselleştirme ve veri madenciliği için geliştirilmiş güçlü ve esnek bir programlama dilidir. 
+
+R, güçlü istatistiksel hesaplama ve modelleme yeteneklerine sahiptir. Temel istatistiksel analizler için birçok yerleşik fonksiyon ve paket sağlar. 
+
+Çok fazla kullanılmaz.
+
+2- Matlab ve Octave: Matlab, veri analizi, makine öğrenimi ve bilimsel hesaplamalar için kullanılan yazılımdır. Özellikle mühendislik ve bilimsel alanlarda tercih edilir. 
+
+Ocatve, Matlab'ın açık kaynak alternatifidir ve benzer bir söz dizimi ile veri bilimi projeleri için kullanılabilir. 
+
+3- SAS(Statistical Analysis System): Veri analitiği ve iş zekası için kullanılan profesyonel bir yazlımdır ve özellikle büyük kurumsal kullanıcılar arasında popülerdir. 
+
+Diğer açık kaynaklı çözümlerle karşılaştırıldığında oldukça pahalıdır. 
+
+4- Julia Programlama: Özellikle veri bilimi, sayısal hesaplama ve yüksek performanslı hesaplama için tasarlanmış modern bir programlama dilidir. 
+
+Python ve R gibi diğer veri bilimi dillerine kıyasla daha yeni olmasına rağmen, hız ve esneklik gibi önemli avantajları sayesinde popülerlik kazanmaktadır. 
+
+5- RapidMiner: Veri hazırlama, modelleme, değerlendirme ve dağıtım için kapsamlı bir veri platformudur. 
+
+6- KNIME: Geniş bir topluluk ve çok sayıda eklenti içerir. 

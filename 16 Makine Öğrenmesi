@@ -1,0 +1,79 @@
+			16 Makine Öğrenmesi
+
+
+Bilgisayarların önceden programlanmış spesifik talimatları yerine, veriye dayalı olarak kendi kendine öğrenmelerini sağlayan bir yöntemdir. Makine öğrenmesi, bilgisayarlala veri verildiğinde bu veriden anlam çıkarmasını ve gelecekte benzer veriyle karşılaşıldığında tahmin veya karar vermesini sağlar. 
+
+Makine öğrenmesi modelleri, veri bilimciler tarafından verileri analiz etmek ve çeşitli tahminlerde bulunmak için kullanılır. Veri bilimciler genellikle makine öğrenmesi algoritmalarını seçer, hiperparametreleri ayarlar, modelleri eğitir ve sonuçları değerlendirir. 
+
+
+	Makine Öğrenmesi Temel Bileşenleri
+
+Veri : Makine öğrenmesi, genellikle büyük miktarda veriye dayanır. Bu veri, öğrenme sürecicin temel kaynağıdır. 
+
+Veri setleri, genellikle train(eğitim) ve test seti olarak ikiye ayrılır.
+
+Eğitim Veri Seti: Makine öğrenmesi modelinin öğrendiği verilerdir. Model, bu veri setinde bulunan örneklerden, ilişkilerden ve kalıplardan öğrenir.
+
+	Giriş Verileri(Features): Modelin öğrenmesi için kullanılan bağımsız değişkenlerdir. 
+
+	Çıkış Verileri(Labels): Modelin tahmin etmeye çalıştığı bağımlı değişkenlerdir. 
+
+Test Veri Seti: Eğitilmiş modelin performansını değerlendirmek için kullanılan bağımsız bir veri kümesidir. Bu veri seti, modelin daha önce görmediği yeni verilerden oluşur. 
+
+
+Model : Girdiler(features) ve çıktılar(labels) arasındaki karmaşık ilişkileri öğrenerek, gelecekteki tahminleri veya sınıflandırmaları doğru bir şekilde yapmaktır. 
+ 
+Bu süreçte model, veriye dayalı bir tahmin fonksiyonu oluşturur ve bu fonksiyon, daha önce görülmemiş veriler üzerinde de genelleme yapılabilmelidir. 
+
+Makine öğrenmesi modeli genellikle bir dosya veya bir dizi dosyadır. 
+
+ALgoritma
+Hedef Fonksiyon
+Öğrenme Süreci
+
+	Algoritmalar :
+
+Makine öğrenmesi algoritmaları , verileri analiz etmek ve Modelin öğrenmesini sağlamak için ku llanılan prosedürlerdir. Algoritma , verideki desenleri bulur , Modeli eğitir ve optimize eder .
+
+Belirli bir problem için doğru algoritma seçimi önemlidir . Bir değer tahmini için Lineer Regression algoritmasını tercih ederiz. Bir Sınıflandırma tahmini için Decision Trees algoritmasını tercih edebiliriz .
+
+Onlarca algoritma içerisinden avantaj ve dezavantalarına göre ihtiyacımız olanı seçmeliyiz.
+
+	Makine Öğrenmesi Yöntemleri 
+
+Lineer Regression
+Logistics Regression
+Decision Trees
+
+	Makine Öğrenmesi Algoritmaları
+
+Supervised Learning (Gözetimli Öğrenme):
+
+ Algoritmalar, etiketlenmiş (labelled) veri kullanarak eğitim alır. Her bir eğitim verisi, algoritmanın öğrenmesi gereken doğru bir çıktı ile eşleştirilmiştir 
+
+Gözetimli Öğrenme Algoritmaları: Sınıflandırma ve Regresyon olarak ikiye ayrılır. Sınıflandırma algoritmasında tahmin edilecek şey sınırlı sayıdadır. Regresyon algoritmaları sonsuz değer tahmin edebilir. 
+
+	Sınıflandırma Algoritmaları:
+
+K-En Yakın Komşu-KNN: Bir veri sınıfını tahmin etmek için en yakın komşusuna bakar. K değeri kaç komşya bakılacağını gösterir. K değerini çok vermek de az vermek de iyi değildir.
+
+Naive Bayes: bir olayın olasılığını, bu olaya ait bazı kanıtların veya özelliklerin bilgisiyle hesaplar. Örneğin, bir e-postanın spam olup olmadığını anlamak için e-postanın içindeki kelimelerin olasılıkları dikkate alınır.
+
+	Regresyon Algoritmaları:
+
+Lineer Regression: Bağımlı bir değişken(hedef veya sonuç) ile bir veya daha fazla bağımsız değişken (girdiler) arasındaki ilişkiyi modellemek için kullanılan temel bir istatistiksel ve makine öğrenmesi yöntemidir. 
+
+Gözetimsiz Öğrenme Nedir?
+
+Makine öğrenmesi algoritmalarının etiketli veri olmadan çalıştığı bir öğrenme türüdür. Bu yöntem, veri setlerindeki gizli kalıpları, grupları veya ilişkileri ortaya çıkarmayı amaçlar. Gözetimsiz öğrenmede, algoritmaya herhangi bir doğru cevap verilmez; algoritma, veriyi kendi al-şına analiz ederek verideki gizli yapıları ve kalıpları bulmaya çalışır. 
+
+Gözetimsiz öğrenme, etiketli veri kullanılmadığında veya verilerin etiketlenmesinin zor veya pahalı olduğu durumlarda kullanılır. 
+
+Algoritma, yalnızca giriş verileri ile çalışır ve bu verilerdeki benzerlikleri, farklılıkları veya kalıpları bulur. Amaç, verileri kategorilere ayırmak, gruplandırmak veya boyutlarını azaltarak daha anlaşılır hale getirmektir.
+
+K-Means: Veriyi önceden belirlenmiş K sayıda kümeye ayırır. Her küme, verilerin en yakın olduğu bir merkez noktası(centroid) etrafında şekillenir. K-Means, verilerin bu merkezlerde olan mesafesini minimize etmeye çalışarak kümeleri oluşturur. 
+
+	Pekiştirmeli Öğrenme Algoritmaları:
+
+Bir ajan(agent) adı verilen yapay zekanın, bir ortamda (environment) etkileşimde bulunarak, ödül(reward) ve ceza(penalty) mekanizmaları aracılığıyla deneyim kazanması ve karar verme süreçlerini optimize etmesi esasına dayanan bir öğrenme türüdür. 
+

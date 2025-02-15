@@ -1,0 +1,90 @@
+			10 Veri Yaşam Döngüsü
+
+
+1- Generation(Veri Üretimi)
+2- Collection(Veri Toplama)
+3- Processing(Veri Ön İşleme)
+4- Stroage(Veri Depolama)
+5- Management(Veri Yönetimi)
+6- Analysis(Veri Analizi)
+7- Visualization(Veri Görselleştirme)
+8- Interpretation(Veri Yorumlama)
+
+
+	Veri Üretimi:
+
+Ham verilerin üretilmesi aşamasıdır.
+
+Çeşitli kaynaklardan ve yöntemlerden elde edilebilecek geniş bir veri yelpazesi sunar. 
+
+Nesnelerin interneti, sosyal medya paylaşımları, kullanıcıların log kayıtları gibi veriler veri üretiminin yoğun olduğu alanlardır. 
+
+Veri üretiminde 3 farklı yapı vardır.
+
+-Yapısal veri
+-Yapısal olmayan veri
+-Yarı yapısal veri
+
+
+	Sentetik Veri Üretimi:
+
+Gerçek dünyadaki verilerden türetilmeyen, yapay olarak oluşturulmuş verilerdir. 
+
+https://mockaroo.com/
+https://rndgen.com/
+https://sqldatagenerator.com/
+
+
+	Veri Üretim Yöntemleri:
+
+Veriler çeşitli yöntemlerle üretilebilir ve bu yöntemler projenin aöacına, veri türüne ve kullanılabilit kaynaklara göre değişir. 
+
+İnsan Kaynaklı Veri:
+
+İnsanlar tarafından oluşturulan ve tüketilen verilerdir. Sosyal medya gönderileri, anket yanıtları, web sitesi etkileşimleri bu kategoriye girer. Örneğin, kullanıcıların bir e-ticaret sitesinde arama yapması, ürünleri incelemesi veya yorum bırakması.
+
+
+Makine Kaynaklı Veriler:
+
+Cihazlar, makineler veya yazılımlar tarafından üretilen verilerdir. Sensörler, loT cihazları, sunucu logları ve ağ trafiği gibi kaynaklar bu gruptadır.
+
+
+	Veri Toplama:
+
+Veri toplama, veri üretim aşamasında oluşturulan veya ortaya çıkan verilerin, belirli bir amaç doğrultusunda bir araya getirilmesi sürecidir. 
+
+Bu aşama, verilerin nereden, nasıl ve hangi araçlarla toplanacağını belirlemeyi amaçlar. 
+
+Veri toplama, ham veriyi organize biçimde elde etmeyi ve bu veriyi daha sonraki işleme, analiz, ve depolama aşamalarına hazırlamayı amaçlar. 
+
+
+	Veri Toplama Yöntemleri:
+
+Veri toplama, kullanılan kaynaklara ve teknolojilere bağlı olarak farklı yöntemlerle gerçekleştirilebilir. 
+
+Veritabanlarından Veri Toplama: 
+
+Veriler, SQL veya NoSQL veritabanlarından sorgular aracılığıyla elınır. Bu yöntem, büyük ölçekli, organize ve yapılandırılmış veri toplamak için idealdir. 
+
+
+Dosyadan Veri Toplama:
+
+Veriler, yaygın olarak kullanılan CSV, Excel veya benzeri dosya formatlarından alınır. Bu dosyalar genellikle tablo şeklinde yapılandırılmış veri içerir ve veri bilimi projeleri için kolayca işlenebilir. 
+
+
+Web Scrapping/Crawling:
+
+Belirli web sitelerinden veri toplamak için web scraping araçlarının veya yazılımlarının kullanılmasını içerir. 
+
+
+API Tabanlı Veri Toplama:
+
+API'ler, belirli bir sistem veya uygulamadan veri almak için kullanılan arayüzlerdir. API tabanlı veri toplama, verileri gerçek zamanlı veya periyodik olarak toplamak için etkili bir yöntemdir. 
+
+
+Açık Veri Portalları:
+
+openweathermap.org (hava durumu verisi)
+TUIK
+
+Not: Veri toplama yasal yollardan yapılmalıdır.

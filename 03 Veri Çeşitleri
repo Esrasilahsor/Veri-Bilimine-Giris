@@ -1,0 +1,27 @@
+			03 Veri Çeşitleri
+
+
+
+	Structured Data(Yapılandırılmış Veri):
+
+Belli bir formatta, genellikle tablo şeklinde organize edilmiş verilerdir. Veritabanları ve excel tabloları bu tür verileri içerir. 
+
+Müşteri veritabanındaki isim, soyisim, adres, sipariş bilgileri yapılandırılmış verilerdir.
+
+Telefon rehberi günlük hayattan bir örnek olarak verilebilir. 
+
+
+
+	Semi-Structured Data(Yarı Yapılandırılmış Veri):
+
+Hem yapılandırılmış hem de yapılandırılmamış veri ögelerini içeren veridir. Genellikle veri etiketlenmiştir ve bir hiyerarşi içerir.
+
+XML, JSON dosyaları, log dosyaları, e-ticaret ürün katalogları yarı yapılandırılmış verilerdir. 
+
+
+
+	Unstructured Data(Yapılandırılmamış Veri):
+
+Belirli bir formatta olmayan, organize edilmemiş verilerdir. Bu veriler işlenmeden önce anlamlandırılması zor olabilir. 
+
+Text dosyaları ve dokümantasyonlar, Sensör verileri, Fotoğraflar, Video Dosyaları, Ses Dosyaları, e-postalar, sosyal medya dataları ve Sunucu, Website ve Uygulama logları(kayıtları) yapılandırılmamış verilere örnek olarak verilebilir. 

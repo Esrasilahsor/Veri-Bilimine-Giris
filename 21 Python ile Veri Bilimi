@@ -1,0 +1,61 @@
+			21 Python ile Veri Bilimi
+
+
+Veri bilimi dünyasında en popüler ve yaygın kullanılan programlama dilidir. 
+
+Kolay öğrenilebilir ve kullanıcı dostu söz dizimi
+Zengin ve güçlü kütüphane desteği
+
+
+Anaconda: Veri bilimi ve makine öğrenimi projeleri için en popüler Python dağıtımlarından biridir. Paket yönetimi ve ortam yönetimi için mükemmel bir araç sunar. 
+
+Juypter Notebook: Veri bilimi ve makine öğrenimi projelerinde yaygın olarak kullanılan bir etkileşimli kod yazma ortamıdır. Python kodları çalıştırmanın yanı sıra Markdown hücreleriyle notlar, görseller ve görselleştirmeler de eklenebilir. 
+
+PyCharm: JetBrains tarafından geliştirilen Python için özelleştirilmiş güçlüir entegre geliştirme ortamıdır. (IDE) hem açık kaynaklı bir topluluk sürümü hem de profesyonel sürümü vardır. 
+
+Google Colab: Bulut tabanlı bir Jupyter Notebook ortamıdır. Google Drive'a entegre edilir ve kullanıcılara GPU ve TPU erişimi sunar. 
+
+
+	Python Code Repository
+
+Git: Bir sürüm kontrol sistemi olup, yazılım geliştirme projelerinde kodların ve dosyaların geçmiş versiyonlarını takip etmek, yönetmek ve ekiplerin işbirliği yapmasını kolaylaştırmak için kullanılır. GitHub, Bitbucket, GitLab, Azure Repo
+
+Upsonic: Yazılım geliştiricilerin sıklıkla kullandıkları ortak fonksiyonları tek bir kütüphanede toplamalarına ve bu sayde tekrar tekrar aynı kodu yazmaktan kurtulmalarına olanak tanıyor. 
+
+
+	Python Kütüphanleri:
+
+Veri Toplama: Requests, BeauifulSoup, Scrapy, SQLAlchemy, Psycopg2, PyMongo, Cx_Oracle
+
+Veri Ön İşleme: Pandas, NumPy, SciPy, Scikit-learn, Dask
+
+Veri Analizi: Pandas, NumPy, SciPy, Scikit-learn, Dask
+
+Veri Görselleştirme: Matplotlib, Seaborn, Plotly, Bokeh, Altair, Pyplot3D
+
+Makine Öğrenmesi: Scikit-learn, TensorFlow, Keras, PyTorch, H2O
+
+Derin Öğrenme
+
+Büyük Veri: PySpark, Dask, Vaex, Modin
+
+Gerçek Zamanlı Veri Analizi: PySpark Streaming, Flink
+
+
+	Python ile Veri Analizi
+
+Requests: İnternetten veri çekmek için kullanılır. 
+
+NumPy: Bilimsel hesaplamalar için kullanılan temel bir Python kütüphanesidir. Özellikle çok boyutlu diziler (arrays) üzerinde verimli işlemler gerçekleştirmek için tasarlanmıştır. 
+
+Pandas: Veri manipülasyonu ve veri analizi için güçlü bir Python kütüphanesidir. Yapısal veriler üzerinden çalışmak için özellikle uygundur ve yaygın olarak CSV, Excel gibi dosya formatlarıyla entegre çalışır. Pandasın en güçlü yapısı DataFrame'dir. Çeşitli veri kaynaklarından veri okuma ve yazma işlemlerini kolaylaştırır. 
+
+
+	Python ile Veri Görselleştirme:
+
+
+Matplotlib: Python'da grafikler ve görseller oluşturmak için kullanılan en temel ve güçlü kütüphanelerden biridir. Çok esnek ve özelleştirilebilir olmasıyla dikkat çeker. 
+
+Seaborn: Matplotlib üzerine inşa edilmiş bir kütüphane olup, daha sofistike ve estetik olarak hoş görselleştirmeler sunar. Özellikle veri analizi ve istatistiksel görselleştirmeler sunar. Özellikle veri analizi ve istatistiksel görsellştirme için optimize edilmiştir. 
+
+Bkeh: Web tabanlı interaktif grafikler ve görselleştirmeler oluşturmak için tasarlanmıştır. Bokeh, veri anaistleri ve bilim insanları için oldukça kullanışlıdır çünkü dinamik etkileşimli grafikler oluşturma yeteneğine sahiptir. 

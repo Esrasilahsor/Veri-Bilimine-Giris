@@ -1,0 +1,66 @@
+			08 Merkezi Eğilim ve Dağılım Ölçümleri
+
+
+	Merkezi Eğilim Ölçümleri:
+
+Bir veri kümesinin genel eğilimlerini anlamaya yardımcı olan istatistiksel göstergelerdir. Verilerin merkezi değerini belirlemek için kullanılır. 
+
+
+Aritmetik Ortalama:
+
+Bir sayı serisinin tüm sayılarının toplanması ve birim sayısına bölünmesiyle elde edilir. 
+
+Medyan:
+
+Bir veri setinde, sıralanmış verileri ortasında yer alan değeri ifade eder.
+
+Medyan verilerin dağılımı hakkında bilgi verir ve özellikle aşırı değerlerden etkilenmeyen bir merkezi eğilim ölçüsüdür. 
+
+Sıralanmış verilerin sayısı tek ise X(n+1)/2 formülü ile bulunur. Eğer veriler çift sayısa ise [X(n/2) + X((n/2)+1)]/2 formülü ile bulunur. 
+
+Not: Aritmetik ortalama verilerin genel eğilimini gösterirken, medyan daha dengeli bir merkezi eğilim sunar. Özellikle uç değerler olduğunda medyan kararlıdır. 
+
+Mod: 
+
+Veri setinde en sık tekrarlanan değerdir. 
+
+Algoritmik bir işlem olduğu için formülle hesaplanması zordur. Genelde yazılım, programlama veya çeşitli araçlar kulanılarak bulunur.
+
+
+
+		Dağılım Ölçümleri:
+
+Bir veri kümesinin nasıl yayıldığını veya dağıldığını anlamak için kullanılan istatistiksel göstergelerdir. 
+
+Verilerin ne kadar çeşitlilik gösterdiğini veya ne kadar homojen olduğunu anlamaya yardımcı olur.
+
+Değişim Aralığı(Range):
+
+Veri kümesindeki en yüksek ve en düşük değer arasındaki farkı ölçen bir dağılım ölçüsüdür. Yayni veri kğmesindeki en büyük değer ile en küçük değer arasındaki mesafedir.
+
+Değişim aralığı = En yüksek değer - En küçük değer
+
+Değişim aralığı ne kadar küçükse, serimiz o kadar homojen dağılmış demektir. 
+
+Varyans:
+
+Bir veri kümesindeki değerlerin ortalamadan ne kadar uzaklaştığını ölçen bir dağılım ölçüsüdür. Tüm merkezi dağılım ölçüleri gibi verilerin daılımıyla ilgili bilgi verir. 
+
+Varyans hesaplanırken önce aritmetik ortalama hesaplanır. Daha sonra aritmetik ortalama her birimden çıkarılır ve çıkan değerlerin karesi alınır. Karesi alınan değerler toplanır. Çıkan sonuç, popülasyon veya örneklem sayısına göre n veya (n-1)'e bölünür.
+
+Eğer varyans bir örneklem üzerinde hesaplanıyorsa, bu durumda n yerine n-1 ile bölünür bu örneklem varyansı olarak adlandırılır. 
+
+Veri seti içerisindeki değerlerin, ortalama olarak ne kadar uzaklaştıkları ile ilgili bilgi verir. 
+
+Varyansın küçük olması değerlerin ortalamaya yakın olduğu, büyük olması ise uzak olduğu anlamına gelir. 
+
+Veri setindeki tüm değerler eşitse varyans sıfır(0) olur. 
+
+Standart Sapma:
+
+Veri setinin ne kadar yayılmış veya dağılmış olduğunu anlamaya yardımcı olur. 
+
+Veri setinin dağılımını en doğru kullanışlı biçimde yansıtan dağılım ölçüsü standart sapmadır.
+
+Varyansın karekökü alınarak hesaplanır. 
+

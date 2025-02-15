@@ -1,0 +1,50 @@
+			07 Temel İstatistik
+
+
+Veri bilimi alanında çalışırken veri madenciliği, makine öğrenmesi, yapay zeka gibi yöntemler kullanılarak sonuçlar elde edilir. 
+
+Tüm bu süreçlerin temelinde yatan kavramlar ve araçlar genellikle istatistikten gelir. 
+
+İstatistik, verileri toplama, analiz etme, yorumlama ve sunma bilimidir. 
+
+Bir veriyi anlamlandırmak, sonuçları genellemek veya tahminler yapmak için kullanılan yöntemlerin çoğu istatistiksel kavramlara dayanır. 
+
+Bir konu ile ilgili, belirli bir amaç üzerine hazırlanan veri kümelerine de istatistiksel veri kümeleri denir. Örneğin, İşsizlik istatistikleri
+
+Bu konuda TUİK bize çok yardımcı olur. 
+
+
+		İstatistik Bölümleri
+
+	Betimsel İstatistik: 
+
+Verilerin özetlenmesi, organize edilmesi, ve sunulmasıyla ilgilenir. 
+
+Veri setlerinin daha anlaşılır ve yorumlanabilir hale getirmektir. Bu süreçte, ham veriler çeşitli yöntemlerle özetlenir ve temsil edilir. 
+
+
+	Betimsel İstatistik Özellikleri: 
+
+Merkezi Eğilim Ölçümleri: Ortalama, medyan, mod gibi verilerin merkezini belirleyen ölçümler.
+
+Dağılım Ölçümleri: Varyans, standart sapma, aralık gibi verilerin yayılımını gösteren ölçümleridr. 
+
+Görselleştirme Araçları: Histogram, çubuk grafik, pasta grafik gibi verileri görsel olarak temsil eden araçlar.
+
+
+	Çözümsel İstatistik:
+
+Çıkarımcı istatistik, bir örneklemden elde edilen bilgileri kullanarak, genel popülasyon hakkında tahminlerde bulunma sürecidir. 
+
+Bu bölüm, örneklemin analizine dayanarak genellemeler yapar ve belirli sonuçlara ulaşır. 
+
+
+	Çözümsel İstatistik Özellikleri: 
+
+Örneklem ve Popülasyon: Çıkarımcı istatistik, örneklemden elde edilen bulguları popülasyona genellemek için kullanılır. 
+
+Hipotez Testi: 
+
+Bir hipotezin doğru olup olmadığını belirlemek için kullanılan yöntemdir. Genellikle p-değeri gibi istatistiksel ölçütler kullanılır. 
+
+Tahmin ve Tahminleme: Parametre tahmini yaparak popülasyon hakkında bilgi sağlar. Örneğin, ortalama ya da oran tahminleri.

@@ -1,0 +1,48 @@
+			14 Veri Madenciliği(Data Mining)
+
+
+Büyük ve karmaşık veri setlerinden anlamlı bilgi ve desenleri ortaya çıkarmyak için kullanılan analitik bir süreçtir.
+
+Temel amacı, veri içindeki gizli bilgileri ve ilişkileri keşfetmektir. 
+
+Veri madenciliği bilgisayarlardan önce de vardı ve yıllar içerisinde bir çok evrim geçirdi. 
+
+Veri bilimi, veri madenciliğini de içerir, ancak daha geniş bir bakış açısına sahiptir. Her iki alanda da veri analizi ve modelleme teknikleri kullanılır. Veri madenciliği genellikle belirli bir analitik amaca hizmet eden teknikler ve araçlar üzerine odaklanırken, veri bilimi daha geniş bir yaklaşımı kapsar ve veri mühendisliği, yazılım geliştirme gibi ek disiplinleri de içerir.
+
+
+		Veri Madenciliği Teknikleri:
+		
+
+	Sınıflandırma(Classification):
+
+Verileri belirli sınıflara veya etiketlere ayırmak için kullanılan tekniktir. Karar ağaçları, k-en yakın komşusu(k-NN), destek vektör makineleri(SVM), Naive Bayes, yapay sinir ağları(ANN) 
+
+Örneğin, e-maillerin sınıflandırılması
+
+
+	Regresyon(Regression): 
+
+Bir değişkenin diğer değişkenler (bağımsız) ile ilişkisini modellemek için kullanılır. Doğrusal regresyon, çoklu regresyon, polinomal regresyon. 
+
+Örneğin, ürün fiyatlarının tahminlenmesi. 
+
+
+	Kümeleme(Clustering):
+
+Verileri benzerliklerne göre gruplandırmak için kullanılan tekniktir. K-means, hiyerarşik kümeleme, DSBCAN(Density-Based Spatial Clusterin of Applicaitons with Noise) 
+
+Örneğin, müşteri segmentasyonu
+
+
+	Anomali Tespiti(Anomaly Detection): 
+
+Verilerdeki olağandışı veya sıra dışı gözlemleri tespit etmeyi amaçlar. Z-Score, Mahlanobis mesafesi, İzolasyon ORmanı (Isolation Forest), Local Outlier Factor(LOF).
+
+Örneğin, dolandırıcılık tespiti, sistem arızaları.
+
+
+	Zaman Serisi(Time Series):
+
+Zaman içinde değişen verileri analiz ederek gelecekteki trendleri tahmin etmeye yönelik tekniklerdir. ARIMA(AutoRegressive Integrated Moving Average), Holt-Winters yöntemi
+
+Örneğin, satış tahminleri.

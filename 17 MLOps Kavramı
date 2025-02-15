@@ -1,0 +1,40 @@
+			17 MLOps Kavramı
+
+
+Makine öğrenmesi modellerinin geliştirilmesi, dağıtılması ve yönetilmesi için kullanılan bir uygulama süreçler bütünüdür. 
+
+Makine öğrenmesi modellerinin üretim ortamlarında kullanılabilir hale getirilmesi süreci genellikle karmaşık ve zordur. MLOps'un temel amacı, bu süreci daha verimli, otomatikleştirilmiş ve tekrarlanabilir hale getirmektir. 
+
+MLOps'un temel hedefi, makine öğrenmesi modellerini fikir aşamasından üretim ortamına en kısa sürede ve mümkün olan en az riskle geçirmektir. Bu hedefe ulaşmak için teknik engellerin ve zorlukların azaltılması gerekmektedir. Teknik sürtünmeyi azaltarak, geliştiricilerin ve veri bilimcilerin modellleri daha hızlı ve güvenli bir şekilde üretime alması sağlanır. 
+
+Hedefleri:
+
+Geliştirme ve Dağıtım Süreçleri
+Versiyon Kontrolü
+Model İzleme ve Yönetim
+Güvenlik ve Uyumluluk
+
+	MLOps Süreçleri:
+
+Veri Yönetimi
+Model Geliştirme
+Model Dağıtımı
+Model İzleme ve Yönetim
+
+
+	MLOps Seviyeleri:
+
+MLOps Maturity Levels, bir organizasyonun MLOps uygulamalarındaki olgunluk düzeyini belirten aşamalardır. Bu seviyeler, makine öğrenmesi projelerinin geliştirilmesi, dağıtılması, yönetilmesi ve izlenmesi süreçlerinin ne kadar otomatize ve entegre olduğunu gösterir. 
+
+MLOps Level-0 (Manual Process):
+
+Bu seviyede otomasyon bulunmamaktadır. MAkine öğrenmesinin tğm aşamaları manuel olarak gerçekleştirilir. Manuel model dağıtımı vardır. Yeni sürümler çok sık kullanılmaz, bir model aylarca çalışır. CI/CD yoktur. Sadece tahmin hizmeti vardır. Performans izleme ve test yoktur.  
+
+MLOps Level-1 (ML Pipeline):
+
+Bu aşamada, MLOps pratikleri tamamen otomatik hale getirilir. Model geliştirme, dağıtım ve izleme süreçleri entegre edilir ve sürekli iyileştirilir. CI/CD hatları tamamen otomatiktir. Model performansı sürekli izlenir ve gerektiğinde güncelleneler yapılır. 
+
+MLOps Level-2 (CI/CD Pipeline):
+
+Daha fazla deney yapmak isteyen ve sürekli değitim gerektiren yeni modeller oluşturmak isteyen kuruluşlar içindir. Geniş çapta ölçeklenbilir model geliştirme ve dağıtım altyapısı. Gelişmiş izleme, uyarı ve geri bildirim mekanizmaları. Proje ve süreçlerin kapsamlı oluşturulması.
+

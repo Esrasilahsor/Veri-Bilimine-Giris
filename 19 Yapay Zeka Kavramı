@@ -1,0 +1,30 @@
+				19 Yapay Zeka Kavramı
+
+
+Bilgisayarların ve diğer makinelerin, insanlar tarafından yapılan görevleri insan benzeri bir şekilde yerine getirebilmesi amacıyla geliştirilen algoritma ve teknolojilerin bütündür. 
+
+Yapay zeka, makinelerin düşünme, öğrenme, problem çözme, anlama, doğal dil işleme, algılama yeteneklerini kapsar. 
+
+
+	Yapay Zeka Çeşitleri
+
+ANI(Artificial Narrow Intelligence) Dar Yapay Zeka: Makine öğrenmesi ile çalışır. Belirli bir görev veya problem üzerinde uzmanlaşmış yapay zekadır. Siri ve Alexa gibi. Otonom Araçlar, Satranç oynayan bilgisayarlar
+
+AGI(Artificial General Intelligence) Genel Yapay Zeka: İnsan zekasının tüm işlevlerini yerine getirebilir. Şu anda AGI, teorik bir konsepttir ve henüz tam anlamıyla gerçekleşmemiştir. 
+
+ASI(Artificial Super Intelligence) Süper Yapay Zeka: İnsandan fazla bir zekası olan yapay zekadır. Şu anda bir örneği yoktur.
+	
+
+	Üretken Yapay Zeka:
+
+Metin, fotoğraf, ses gibi yapılandırılmamış verilerden tablo, veritabanı, exceller gibi yapılandırılmış verilerdn öğrenerek içerik üretme yeteneğine sahip olan yapay zeka sistemleridir. 
+
+Temel Bileşenleri: 
+
+Veri
+Model
+Yapay Sinir Ağları
+Vektör Veritabanları
+NLP(Doğal dil işleme)
+
+

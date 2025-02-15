@@ -1,0 +1,25 @@
+			18 Derin Öğrenme Teknolojileri
+
+
+Derin Öğrenme, Makine öğrenmesinin bir alt dalıdır. Çok katmanlı yapay sinir ağları kullanarak karmaşık ve büyük veri kümelerinden anlamlı sonuçlar çıkarmayı amaçlayan bir yaklaşımdır. Yapay zekaya en yakın öğrenme yöntemidir. 
+
+Özellikle büyük miktarda verinin mevcut olduğu ve geleneksel makine öğrenmesi yöntemleriin yetersiz kaldığı durumlarda etkili bir şekilde kullanılır. 
+
+Görüntü işleme ya da sesi yazıya dönüşütrme gibi insanın yapabileceği işlemleri otomatikleştirebilen bir yapay zeka dalıdır. 
+
+İnsan beyin yapısını matematiksel hesaplamalar ile makine modellerine dönüştürür. 
+
+Derin öğrenme sinirlerin birleşiminden oluşan ağdır. Sinir ağlarıdır.
+
+
+	Derin Öğrenme Algoritmaları
+
+-Yapay Sinir Ağları(ANN)
+
+-Evrişimli Sinir Ağları(CNN): Görüntü işleme, Video analizi, Görüntü sınıflandırma, Nesne algılama, Yüz tanıma işlemlerinde kullanılır.
+
+-Tekrarlayan Sinir Ağları(RNN):Önceki adımdan gelen verileri hatırlar. Doğal dil işleme, Zaman serisi tahmini, Konuşma tanıma
+
+-Dönüştürücüler - Transformers: Veriler arası uzun vadeli ilişkileri öğrenir. BERT, GPT modelleri örnektir. Doğal dil işleme(NLP), Dil Çevirisi, Metin üretimi
+
+-Uzun Kısa Süreli Hafıza - LSTM: Uzun süreli bağımlılıkları öğrenmek için tasarlanmıştır. Metin oluşturma, Dil çevirisi, Zaman serisi analizi

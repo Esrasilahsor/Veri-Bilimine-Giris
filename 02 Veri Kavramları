@@ -1,0 +1,40 @@
+			02 Veri Kavramları
+
+
+Veri(Data), üzerinde işlem yapılmamış ham parçacığına verilen isimdir. 
+
+Veriler tek başına bir anlam ifade edemezler ve bir işlevleri yoktur.
+
+İlk önce veriler toplanır ve gruplanır daha sonra sıralanır, özetlenir ve ardından bilgisayar ya da elle işlenip enformasyona(bilgiye) dönüştükten sonra anlam kazanırlar.
+
+DIKW Piramidi:
+
+Bilgi yönetimi ve bilişim teorisinde yaygın olarak kullanılan bir yapıdır.
+
+Verinin bilgiye, bilginin bilgelik haline dönüşüm sürecini açıklar. 
+
+Her aşamada daha fazla anlam düzeyini ifade eder. 
+
+
+	  WISDOM(BİLGELİK)
+  KNOWLEDGE(KAZANILMIŞ BİLGİ)
+     INFORMATION(BİLGİ)
+        DATA(VERİ)
+
+
+WISDOM: Knowledge sonuçlarının neden sonuç ilişkisiyle detaylı yorumlanmasıdır.
+
+KNOWLEDGE: Birden fazla bilginin bir araya gelemsi, yorumlanma sürecidir.
+
+INFORMATION: Verinin organize edilmesi ve anlamlandırılması sürecidir. 
+
+DATA: Ham, işlenmemiş ve bağımsız parçadır.
+
+
+Data: 14/8, 15/10, 18/11
+
+Information: Bu ölçümler tansiyon değerleridir ve sürekli olarak yükseldiği görülmektedir.
+
+Knowledge: Yüksek tansiyon bir çok hastalığın riskini arttırır. Bu nedenle normale dönüşmesi gerekmektedir. Normal: 12/8  (Burada 3 tane bilgi yer almaktadır)
+
+Wisdom: Hastanın yaşam tarzı, stres seviyesi, ilaçlarla uyumuna göre tedavi süreci planlanır.

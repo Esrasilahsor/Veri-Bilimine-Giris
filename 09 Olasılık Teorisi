@@ -1,0 +1,84 @@
+			09 Olasılık Teorisi
+
+
+Belirli bir olayın geçekleşme olasılığını hesaplamak ve bu olayların topluluğuna dair genel kuralları belirlemek amacıyla kullanılır. 
+
+Bir olayın olasılığı , bu olayın gerçekleşme şansını ifade eder ve 0 ile 1 arasında bir değer alır.
+
+Deney: Sonuçları rastgele olan bir süreç. Örneğin, bir zae atmak veya bir kağıt çekmek.
+
+Olay: Bir deneyin belli bir sonucudur. Örneğin, zarın 4 gelmesi veya bir kartın kırmızı olması.
+
+P(A) = İstenen Durum / Tüm Durumlar
+
+Veri biliminin temel taşlarından biridir ve veri bilimi içinde çok çeşitli alanlarda önemli rol oynar. 
+
+Makine öğrenmesi algoritmalarında olasılık teorisi kullanılır. 
+
+Veri madenciliğinde k-means ve benzeri algoritmalarda veri kümeleri arasındaki uzaklık hesaplamada kullanılır. 
+
+Doğal Dil İşleme(NLP); kelime ve cümelerin anlamını belirlemek için dil modellerinde kullanılır. 
+
+	Rassal Değişken(Rastgele Değişken): 
+
+Her bir deneyin sonucunu sayısal bir değere atayan fonksiyondur. 
+
+Bir paranun yazı-tura gelme deneyinde sonuç bir rassal değişkendir. 
+
+Zar atma deneyinde sonucun 1,2,3,4,5,6 gelme değerleri bir rassal değişkendir. 
+
+Bir kişinin boyunu tahmin etme bir rassal değişkendir. 
+
+
+	Rassal Değişken Türleri:
+
+Kesikli Rastgele Değişken: Belirli ve ayrık(ayrılabilir) değerler alabilen değişkenlerdir. Örneğin bir zar atıldığında 1,2,3,4,5 veya 6 gibi belirli sayılar alabilir. 
+
+Sürekli Rastgele Değişken: Belirli bir aralıktaki herhangi bir değeri alabilen değişkenlerdir. Bu değikenler genellikle bir aralıkta sonsuz sayıda değer alabilir. 
+
+Örneğin bir kişinin boyu veya ağırlığı.
+
+
+	Olasılık Dağılımı:
+
+Bir rastgele değişkenin alabileceği değerlerin ve bu değerlerin olasılıklarının sistematik bir şekilde tanımlandığı fonksiyondur. 
+
+Kesikli Olasılık Dağılımı: 
+
+Ayrık değerler alabilen rastgele değişkenler için kullanılır. Bu dağılımlar, her bir olası değer için olasılık belirler. 
+
+Binom Dağılımı: Belirli bir sayıdaki bağımsız deneylerde başarıların sayısını modellemek için kullanılır. Örneğin, bir zarın belirli bir sayı(örneğin 6) gelme olasılığını hesaplamak.
+
+Poisson Dağılımı: Belirli bir zaman diliminde veya alanda meydana gelen olayların sayısını modellemek için kullanılır. 
+
+Örneğin bir hastaneye bir gün içerisinde gelen hasta sayısı.
+
+
+Sürekli Olasılık Dağılımı:
+
+Sürekli olasılık dağılımları, belirli bir aralıkta herhangi bir değeri alabilen rastgele değişkenler için kullanılır. 
+
+Normal Dağılım: Çoğu doğal ve sosyal olgunun dağılımını modellemek için kullanılır. Genellikle çan şeklinde bir eğri oluşturur.
+
+Örneğin bir sınıftaki öğrencilerin sınav notları genellikle normal dağılım gösterir. 
+
+Üsel Dağılım: Olaylar arasındaki sürelerin dağılımını modellemek için kullanılır. ÖRneğin bşr makinenin arızalanma süresi.
+
+
+	Hipotez Testleri:
+
+Hipotez: Belirli bir konu hakkında yapılan tahmin veya iddiadır. Bilimsel araştırmalarda hipotez, test edilmek üzere ortaya atılan bir varsayımdır. Hipotez, doğru veya yanlış olabilecek bir ifadedir. 
+
+
+Hipotez Testi: Bir hipotezin doğru olup olmadığını belirlemek için kullanılan istatistiksel bir yöntemdir. Verileri kullanarak hipotezin test edilmesi bu yöntemin temel amacıdır. 
+
+2 temel hipotezle çalışır. 
+-Null Hipotez(H0): Hipotezi kabul eder.
+-Alternatif Hipotez(H1 veya Ha)
+
+T-Testi: Genellikle 30'dan küçük örneklem kümelerinde kullanılır.
+
+Z-Testi: Genellikle büyük örneklem kümelerinde kullanılır. 
+
+Not: Hata değeri genelde %5'dir.
+
